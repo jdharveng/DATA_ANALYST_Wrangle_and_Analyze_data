@@ -7,7 +7,7 @@
 
 >Missing data as for example retweet_count and favourite count, were extracted based on the tweet_id coming from the tweet archive, through the Twitter API. And finally, we could use predictions concerning the dogbreed, based on one of the available pictures.
 
-## Summary of findings
+## General comments
 > After Gathering, Assessing and Cleaning the data some analysis was done on the cleaned master data_frame with tweet info from WeRateDogs:
 >- For the studied population, the main source is from far the iPhone
 >- Some univariate exploration was done on retweet_count and after on the length of the text (from the tweets)
